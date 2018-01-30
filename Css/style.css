@@ -1,0 +1,42 @@
+@import url("css/avatar.css")
+@import url("css/cadre.css")
+@import url("css/buttons.css")
+@import url("css/card.css")
+
+h1 {
+  color: #AECFCE;
+  font-size: 30px;
+  font-family: 'Indie Flower', cursive;
+
+}
+
+body {
+  background-color: #FDB5B7;
+  font-family: 'Lato', sans-serif;
+}
+
+/*p {
+  font-weight: bold;
+}*/
+
+#avatar {
+  width: 100px;
+}
+
+.network {
+  width: 50px;
+}
+
+#abstract {
+  font-weight: bold;
+}
+
+.shadow {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.icone-network {
+  font-size: 70px;
+  color: red;
+  text-decoration: none;
+}

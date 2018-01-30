@@ -1,0 +1,22 @@
+.card {
+	height: 500px;
+	background-color: green;
+	background-image: url("https://superfoodsrx.com/wp-content/uploads/2016/09/kiwi-for-heart-health.jpg");
+	background-size: cover!important;
+
+}
+
+.card-avatar {
+	width: 40px;
+	height:40px;
+	border-radius: 50%;
+	position: absolute;
+	bottom: 15px;
+	right: 15px;
+}
+
+.card-text {
+	color:white;
+	bottom: 15px;
+	left: 15px;
+}
